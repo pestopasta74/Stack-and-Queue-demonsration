@@ -30,10 +30,7 @@ To run this application, you need to have Python installed along with the `tkint
    cd stack-queue-app
    ```
 
-2. Ensure you have Python installed on your machine (Python 3.x is recommended).
-   ```
-
-3. Run the application:
+2. Run the application:
    ```bash
    python main.py
    ```
